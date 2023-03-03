@@ -1,0 +1,32 @@
+.main {
+  display: grid;
+  grid-template-rows: auto;
+  grid-template-columns: repeat(4, 330px);
+
+  height: auto;
+  justify-content: center;
+  align-items: center;
+  justify-self: center;
+
+  margin-top: 50px;
+  gap: 10px;
+}
+.card1 {
+  margin-top: 40px;
+  background: rgb(86, 227, 176);
+  background: linear-gradient(180deg, rgba(86, 227, 176, 1) 0%, rgba(138, 7, 29, 1) 100%);
+  color: white;
+  border: none;
+  -webkit-box-shadow: 10px 10px 14px -1px rgba(242, 228, 242, 0.14);
+  -moz-box-shadow: 10px 10px 14px -1px rgba(242, 228, 242, 0.14);
+  box-shadow: 10px 10px 14px -1px rgba(242, 228, 242, 0.14);
+}
+
+.moreimg {
+  height: 270px;
+}
+.moreitemtitle {
+  color: white;
+  font-size: 100px;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif;
+}
