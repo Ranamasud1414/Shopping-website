@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Shopping-website/static/css/main.bd7a7d6a.css",
+    "main.js": "/Shopping-website/static/js/main.676f562b.js",
+    "static/media/rolex.mp4": "/Shopping-website/static/media/rolex.92261a5957474e7bfc71.mp4",
+    "static/media/2.png": "/Shopping-website/static/media/2.5f080d9e47bf46ca3fce.png",
+    "static/media/3.png": "/Shopping-website/static/media/3.c7785c796d0b2bf5aa2b.png",
+    "static/media/4.png": "/Shopping-website/static/media/4.dce93278370eb9a94e56.png",
+    "static/media/1.png": "/Shopping-website/static/media/1.87f6c2f48f7e15ed845b.png",
+    "static/media/8.webp": "/Shopping-website/static/media/8.8bd0ab9ccc0cf9fb335d.webp",
+    "static/media/5.png": "/Shopping-website/static/media/5.a13c8fc38072a14d6633.png",
+    "static/media/9.webp": "/Shopping-website/static/media/9.91d4c35f1d337159f763.webp",
+    "static/media/6.webp": "/Shopping-website/static/media/6.5828a0fe3c77468b8726.webp",
+    "static/media/7.webp": "/Shopping-website/static/media/7.59c9a0eba54726d9fc95.webp",
+    "static/media/10.webp": "/Shopping-website/static/media/10.84dd6b533214c7e47e20.webp",
+    "index.html": "/Shopping-website/index.html",
+    "main.bd7a7d6a.css.map": "/Shopping-website/static/css/main.bd7a7d6a.css.map",
+    "main.676f562b.js.map": "/Shopping-website/static/js/main.676f562b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bd7a7d6a.css",
+    "static/js/main.676f562b.js"
+  ]
+}
