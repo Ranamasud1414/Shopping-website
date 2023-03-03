@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Shopping-website/static/css/main.bd7a7d6a.css",
-    "main.js": "/Shopping-website/static/js/main.676f562b.js",
+    "main.css": "/Shopping-website/static/css/main.7581feee.css",
+    "main.js": "/Shopping-website/static/js/main.6acefb3f.js",
     "static/media/rolex.mp4": "/Shopping-website/static/media/rolex.92261a5957474e7bfc71.mp4",
     "static/media/2.png": "/Shopping-website/static/media/2.5f080d9e47bf46ca3fce.png",
     "static/media/3.png": "/Shopping-website/static/media/3.c7785c796d0b2bf5aa2b.png",
@@ -14,11 +14,11 @@
     "static/media/7.webp": "/Shopping-website/static/media/7.59c9a0eba54726d9fc95.webp",
     "static/media/10.webp": "/Shopping-website/static/media/10.84dd6b533214c7e47e20.webp",
     "index.html": "/Shopping-website/index.html",
-    "main.bd7a7d6a.css.map": "/Shopping-website/static/css/main.bd7a7d6a.css.map",
-    "main.676f562b.js.map": "/Shopping-website/static/js/main.676f562b.js.map"
+    "main.7581feee.css.map": "/Shopping-website/static/css/main.7581feee.css.map",
+    "main.6acefb3f.js.map": "/Shopping-website/static/js/main.6acefb3f.js.map"
   },
   "entrypoints": [
-    "static/css/main.bd7a7d6a.css",
-    "static/js/main.676f562b.js"
+    "static/css/main.7581feee.css",
+    "static/js/main.6acefb3f.js"
   ]
 }
